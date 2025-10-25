@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen flex flex-col overflow-hidden bg-gradient-to-b from-blue-50 to-white">
+  <div class="min-h-screen flex flex-col overflow-hidden bg-linear-gradient-to-b from-blue-50 to-white">
     <!-- Navbar -->
     <nav class="flex items-center justify-between px-8 py-5 bg-white shadow-md z-10">
       <h1 class="text-2xl font-bold text-blue-600">TicketMaster</h1>
